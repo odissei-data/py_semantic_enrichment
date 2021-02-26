@@ -1,0 +1,6 @@
+xml.etree == 3.3
+nltk == 3.5
+SPARQLWrapper == 1.8.5
+googletrans == 4.0.0rc1
+rdflib >= 5.0.0
+flask >= 1.1
